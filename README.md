@@ -26,5 +26,5 @@
 ## 🔋 Features
 👉 **Fully Functional Chat**: Allows chatting with quick responses using LLAMA-3. <br />
 👉 **Session-based Integration**: Cookies are stored to base different chats to different users. <br />
-👉 **Artificial Intelligent Memorization**: Websites are stored on database, so you won't need to remember all of your previous chats. <br />
+👉 **Artificial Intelligent Memorization**: Websites are stored on database, no need to remember your previous chats. <br />
 👉 **Responsive Design**: Fully functional and visually appealing across all devices and screen sizes. <br />
